@@ -1,0 +1,8 @@
+C:\dev\DotNetRobot\Source\DotNetRobot\bin\Debug\DotNetRobot.exe
+C:\dev\DotNetRobot\Source\DotNetRobot\bin\Debug\DotNetRobot.pdb
+C:\dev\DotNetRobot\Source\DotNetRobot\bin\Debug\NKH.MindSqualls.dll
+C:\dev\DotNetRobot\Source\DotNetRobot\bin\Debug\WinUsbWrapper.dll
+C:\dev\DotNetRobot\Source\DotNetRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\dev\DotNetRobot\Source\DotNetRobot\obj\x86\Debug\DotNetRobot.exe
+C:\dev\DotNetRobot\Source\DotNetRobot\obj\x86\Debug\DotNetRobot.pdb
+C:\dev\DotNetRobot\Source\DotNetRobot\bin\Debug\DotNetRobot.exe.config
